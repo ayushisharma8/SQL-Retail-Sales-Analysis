@@ -1,5 +1,5 @@
 ### 📊 How many sales we have?
-![Total Sales by Category](outputs/result_screenshots/Total Number of Sales.png)
+outputs/result_screenshots/Total Number of Sales.png
 
 --How many customer we have?
 SELECT COUNT(DISTINCT(customer_id)) AS Total_Customers
