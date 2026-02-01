@@ -19,10 +19,11 @@
 EXEC sp_help 'retail_sales'; 
 
 
--- Retrieve all transactions where the category is **'Clothing'** and the quantity sold is more than 1 in the month of **Nov-2022**.
+### Retrieve all transactions where the category is **'Clothing'** and the quantity sold is more than 1 in the month of **Nov-2022**.
 
 ### 📊 Clothing Category Sales (Quantity > 1, Nov 2022)
-![Clothing quantity sold more than 1 for Nov 2022](outputs/result_screenshots/Category%20Clothing%20and%20quantity%20sold%20more%20than%201%20for%20Nov%202022.png)
+![Clothing quantity sold more than 1 for Nov 2022](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/8b050eb1156566472edd4c646ba49d4bc4436d7d/outputs/result_screenshots/Category%20Clothing%20and%20quantity%20sold%20more%20than%201%20for%20Nov%202022.png)
+
 
 
 SELECT * FROM retail_sales
