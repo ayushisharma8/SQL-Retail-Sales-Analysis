@@ -37,11 +37,11 @@
 
 
 ### 📊 Calculate the average sale for each month. Find out the best-selling month in each year.
--- Average Sale for Each Month
+### Average Sale for Each Month
 ![Average sales for each month in each year](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/f4cb9267f6950ad1715a4344accb6ef5ded66648/outputs/result_screenshots/Avg%20sales%20for%20each%20month%20in%20each%20year.png)
 
 
--- Best-Selling Month in Each Year
+### Best-Selling Month in Each Year
 ![Best selling month in each year](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/f4cb9267f6950ad1715a4344accb6ef5ded66648/outputs/result_screenshots/Best%20selling%20month%20in%20each%20year.png)
 
 
@@ -50,7 +50,7 @@
 
 
 ### 📊 Find the number of **unique customers** who purchased items from each category.
-![Shift-wise number of orders](outputs/result_screenshots/Shift-wise%20number%20of%20orders.png)
+![Customer purchase number in each category](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/c29480696ef3897ce0d98fd9be902750791695f2/outputs/result_screenshots/Customer%20puchase%20number%20in%20each%20category.png)
 
 
 ### 📊 Create each **shift** and number of orders (**Example: Morning <=12, Afternoon Between 12 & 17, Evening >17**).
