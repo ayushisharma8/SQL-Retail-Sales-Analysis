@@ -28,9 +28,9 @@
 ![Average age of customers who purchased beauty products](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/c9c3532f0518caa62e59d2f127ead53a5afb81c6/outputs/result_screenshots/Avg%20age%20of%20customers%20purchased%20beauty%20products.png)
 
 
--- Find all transactions where the **total_sale** is greater than 1000.
-SELECT * FROM retail_sales
-WHERE total_sale > 1000
+### 📊 Find all transactions where the **total_sale** is greater than 1000.
+![Total Sales greater than 1000](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/e18793fa1fd0e47010f89610df1db6d995c04225/outputs/result_screenshots/Total%20Sales%20greater%20than%201000.png)
+
 
 -- Find the total number of transactions (**transaction_id**) made by each gender in each category.
 SELECT  gender AS Gender, category AS Category, COUNT(*) As Total_number_of_transactions
