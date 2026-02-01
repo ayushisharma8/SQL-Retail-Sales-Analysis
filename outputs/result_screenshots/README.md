@@ -32,10 +32,9 @@
 ![Total Sales greater than 1000](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/e18793fa1fd0e47010f89610df1db6d995c04225/outputs/result_screenshots/Total%20Sales%20greater%20than%201000.png)
 
 
--- Find the total number of transactions (**transaction_id**) made by each gender in each category.
-SELECT  gender AS Gender, category AS Category, COUNT(*) As Total_number_of_transactions
-FROM retail_sales
-GROUP BY gender, category
+### 📊 Find the total number of transactions (**transaction_id**) made by each gender in each category.
+![Total transactions by each gender in each category](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/990841595645e646fe578fe55d16edb62c0c0f2b/outputs/result_screenshots/Total%20transaction%20by%20each%20gender%20in%20each%20category.png)
+
 
 -- Calculate the average sale for each month. Find out the best-selling month in each year.
 -- Average Sale for Each Month
