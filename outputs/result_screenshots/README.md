@@ -24,10 +24,9 @@
 ![Total Sales for each category](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/c5ea4987cb8c7ba64983fa46bf2d43a5cffd9e52/outputs/result_screenshots/Total%20Sales%20for%20each%20category.png)
 
 
--- Find the average age of customers who purchased items from the **'Beauty'** category.
-SELECT AVG(age) As Average_age_of_customer_who_purchased_Beauty_Products
-FROM retail_sales
-WHERE category = 'Beauty'
+### 📊 Find the average age of customers who purchased items from the **'Beauty'** category.
+![Average age of customers who purchased beauty products](https://raw.githubusercontent.com/ayushisharma8/SQL-Retail-Sales-Analysis/c9c3532f0518caa62e59d2f127ead53a5afb81c6/outputs/result_screenshots/Avg%20age%20of%20customers%20purchased%20beauty%20products.png)
+
 
 -- Find all transactions where the **total_sale** is greater than 1000.
 SELECT * FROM retail_sales
